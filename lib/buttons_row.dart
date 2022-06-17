@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:calculator/CalculatorButton.dart';
+import 'package:calculator/calculator_button.dart';
 
 class ButtonModel {
   const ButtonModel({
